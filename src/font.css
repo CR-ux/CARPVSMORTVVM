@@ -1,0 +1,24 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('/Volumes/CODEX/DEV/WEB DEV/LONELYCARP_WEBSITE/CARPVS MORTVVM/frontend/website-frontend/src/fonts/old_london/OldLondon.ttf') format('truetype');
+    src: url('/Volumes/CODEX/DEV/WEB DEV/LONELYCARP_WEBSITE/CARPVS MORTVVM/frontend/website-frontend/src/fonts/old_london/OldLondonAlternate.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: 'Times New Roman';
+    src: url('/Volumes/CODEX/DEV/WEB DEV/LONELYCARP_WEBSITE/CARPVS MORTVVM/frontend/website-frontend/src/fonts/alchemy-symbols/fonts/alchemy-symbols.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-size: small;
+  }
+  @font-face {
+    font-family: 'Georgia';
+    src: url('/Volumes/CODEX/DEV/WEB DEV/LONELYCARP_WEBSITE/CARPVS MORTVVM/frontend/website-frontend/src/fonts/auldmagick-font/Auldmagick-gvdp.ttf') format('truetype');
+    font-weight: 100;
+    font-size: small;
+    font-style: normal;
+  }

@@ -1,0 +1,34 @@
+/* src/styles/styles.css */
+body {
+    font-family: 'EB Garamond', serif;
+    background-color: #1a1a1a;
+    color: #f0e6d6;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #f0e6d6;
+  }
+  
+  .lore, .grimoire, .rituals, .sigils, .visage, .aura, .coven, .azoth {
+    padding: 10px;
+    background-color: #2a2a2a;
+    border: 1px solid #3a3a3a;
+    border-radius: 1px;
+    margin: 10px;
+  }
+  
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #d4af37;
+  }

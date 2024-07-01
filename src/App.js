@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import { ThemeProvider } from '@mui/material/styles';
+import React from 'react';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Navbar from './components/NavBar';
+import Azoth from './pages/AZOTH';
+import Aura from './pages/Aura';
+import Coven from './pages/Coven';
+import Grimoire from './pages/Grimoire';
+import Lore from './pages/Lore';
+import Rituals from './pages/Rituals';
+import Sigils from './pages/Sigils';
+import Visage from './pages/Visage';
+import { themeOptions } from './theme';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={themeOptions}>
+      <BrowserRouter basename="/">
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Lore />} />
+          <Route path="/grimoire" element={<Grimoire />} />
+          <Route path="/rituals" element={<Rituals />} />
+          <Route path="/sigils" element={<Sigils />} />
+          <Route path="/visage" element={<Visage />} />
+          <Route path="/aura" element={<Aura />} />
+          <Route path="/coven" element={<Coven />} />
+          <Route path="/azoth" element={<Azoth />} />
+        </Routes>
+      </BrowserRouter>
+    </ThemeProvider>
   );
 }
-
-export default App;
