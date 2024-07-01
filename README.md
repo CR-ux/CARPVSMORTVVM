@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+artist website in progress:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+CARPVS MORTVVM
 
-In the project directory, you can run:
+caput mortuum
+“Cardinal Purple”
+Caput mortuum (plural capita mortua; literally "dead head") is a Latin term used in alchemy to signify a useless substance left over from a chemical operation such as sublimation and the epitome of decline and decay (alternatively called nigredo). Alchemists represented this residue with a stylized human skull, a literal death's head
 
-### `npm start`
+Carpis:
+- Singular present indicative form of “carpo,” meaning “you pluck” or “you seize.” In this context, it is adapted to mean “harvest” or “fruit” and then combined with “mortuum” (dead), it conveys “harvested dead” or “plucked dead body
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Karpos:
+- In Roman and Greek mythology, Carpus (/ˈkɑːrpɒs/; Ancient Greek: Καρπός, romanized: Karpos, lit. 'fruit') is a minor character associated with fertility and springtime. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Karpo:
+- Similarly, Karpo, one of the Horae, is the feminine equivalent of Karpos; her dominion being the fruits of the earth.
+- Carpo (Καρπώ), Carpho or Xarpo (not to be mistaken with Karpos) was the one who brings food (though Robert Graves in The Greek Myths (1955) translates this name as "withering") and was in charge of autumn, ripening, and harvesting, as well as guarding the way to Mount Olympus and letting back the clouds surrounding the mountain if one of the gods left. She was an attendant to Persephone, Aphrodite, and Hera, and was also associated with Dionysus, Apollo, and Pan.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Apostle Carpus:
+- The holy, glorious, all-laudable Apostle Carpus of the Seventy is commemorated by the Church on May 26 with St. Alphaeus, and on January 4 with the Seventy.
+- In his second Epistle to Timothy, St. Paul requests, "The phelonion that I left at Troas with Carpus, when thou comest, bring with thee, and the books." Carpus was bishop of Berroia (or Verria) in Macedonia.
 
-### `npm run build`
+CARPVS MORTVVM. R. P.  (et al.)
+R. P. (Requiescat In Pace; Rosæ Petalis)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+1. **Lore** – The Bio Section - formatted as an archaic Epic or lost tome / tablet / apocryphon 
+2. **Grimoire** – The Section for Lyrics / Writings; stylised as a handwritten spell book 
+3. **Rituals** – The Section for Documentation of Performance Art- current OVID’s TRANSFIGURATION 
+4. **Sigils** – The Section for Documentation of Visual Art
+5. **Visage** – The Section for the Documentary Starring and Scored by me [vimeo link behind hermetic seal (patreon/donation paywall or password) 
+6. **Aura** – The Section for the Radio Show featuring RSS podcast link (behind donation / Patreon / album purchase paywall - [is there a way to give auth/access to people with a code from purchasing the vinyl or something like this?]) 
+7. **Coven** – The Section Describing my Patreon or offering some kind of exclusive community forum / hermetic Lodge specifically for Patrons only (needs to extend, not step on the toes of Patreon functionality, provide something unique to a DIY-hosted platform - please help me think of suggestions) 
+8. **AZOTH** - detailed magick system docs; reference materials for personalised monthly tarot readings provided to Patreon community  (seeker’s path tier and above) on the full moon; with original score composition accompaniment 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+			C		
+			A		
+			R		
+R	os	æ	P.	et	al.
+			V		
+			S		
+					
+			M		
+			O		
+			R		
+			T		
+			V		
+			V		
+			M		
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
