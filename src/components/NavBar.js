@@ -11,25 +11,25 @@ const theme = createTheme({themeOptions});
 const Navbar = () => (
   <AppBar position="static">
     <Toolbar themeOptions={theme}>
-      <Typography variant="h4" style={{ flexGrow: 0.2 }}>
-       CARPVS MORTVVM RP
+      <Typography variant="h4" style={{ flexGrow: 0.2 }} sx={{ color: 'text.primary', fontSize: 17 }}>
+       CARPVS MORTVVM RP et al-
       </Typography>
       <Box>
-      <Button sx={{ color: 'text.alternate', fontSize: 30, fontFamily: 'EB Garamond' }} color="inherit" component={Link} to="/">Lore</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 70 }} color="inherit" component={Link} to="/">Lore</Button>
       </Box><Box>
-      <Button sx={{ color: 'text.primary', fontSize: 30}} color="inherit" component={Link} to="/grimoire">Grimoire</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 70}} color="inherit" component={Link} to="/grimoire">Grimoire</Button>
      </Box><Box>
-      <Button sx={{ color: 'text.primary', fontSize: 30, fontWeight: 'medium' }} color="inherit" component={Link} to="/rituals">Rituals</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 70, fontWeight: 'medium' }} color="inherit" component={Link} to="/rituals">Rituals</Button>
       </Box><Box>
-      <Button sx={{ color: 'text.primary', fontSize: 30, fontWeight: 'medium' }} color="inherit" component={Link} to="/sigils">Sigils</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 70, fontWeight: 'medium' }} color="inherit" component={Link} to="/sigils">Sigils</Button>
       </Box><Box>
-      <Button sx={{ color: 'text.primary', fontSize: 30, fontWeight: 'medium' }} color="inherit" component={Link} to="/visage">Visage</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 70, fontWeight: 'medium' }} color="inherit" component={Link} to="/visage">Visage</Button>
       </Box><Box>
-      <Button sx={{ color: 'text.primary', fontSize: 30, fontWeight: 'medium' }} color="inherit" component={Link} to="/aura">Aura</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 70, fontWeight: 'medium' }} color="inherit" component={Link} to="/aura">Aura</Button>
       </Box><Box>
-      <Button sx={{ color: 'text.primary', fontSize: 30, fontWeight: 'medium' }} color="inherit" component={Link} to="/coven">Coven</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 70, fontWeight: 'medium' }} color="inherit" component={Link} to="/coven">Coven</Button>
       </Box><Box>
-      <Button sx={{ color: 'text.primary', fontSize: 30, fontWeight: 'medium' }} color="inherit" component={Link} to="/azoth">AZOTH</Button>
+      <Button sx={{ color: 'text.primary', fontSize: 20, fontWeight: 'medium', typography: {fontFamily: 'Times New Roman'}}} color="inherit" component={Link} to="/azoth">xP>sO;b</Button>
       </Box>
     </Toolbar>
   </AppBar>

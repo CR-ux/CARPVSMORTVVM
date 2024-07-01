@@ -32,7 +32,7 @@ export const themeOptions = createTheme({
     fontWeightBold: 200,
     htmlFontSize: 7,
     h1: {
-      fontFamily: 'Times New Roman, axescript',
+      fontFamily: 'Courier New',
       lineHeight: 0.77,
     },
     h2: {
@@ -47,7 +47,7 @@ export const themeOptions = createTheme({
       lineHeight: 0.7,
     },
     h5: {
-      fontFamily: 'Times New Roman',
+      fontFamily: 'EB Garmond, axescript',
       lineHeight: 0.8,
     },
     subtitle1: {
@@ -57,7 +57,8 @@ export const themeOptions = createTheme({
       lineHeight: 0.62,
     },
     button: {
-      fontFamily: 'EB Garamond',
+      textTransform: 'none',
+      fontFamily: 'Georgia',
     },
     caption: {
       lineHeight: 0.92,
