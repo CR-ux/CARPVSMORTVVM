@@ -8,7 +8,7 @@ caput mortuum
 Caput mortuum (plural capita mortua; literally "dead head") is a Latin term used in alchemy to signify a useless substance left over from a chemical operation such as sublimation and the epitome of decline and decay (alternatively called nigredo). Alchemists represented this residue with a stylized human skull, a literal death's head
 
 Carpis:
-- Singular present indicative form of “carpo,” meaning “you pluck” or “you seize.” In this context, it is adapted to mean “harvest” or “fruit” and then combined with “mortuum” (dead), it conveys “harvested dead” or “plucked dead body
+- Singular present indicative form of “carpo,” meaning “you pluck” or “you seize.” In this context, it is adapted to mean “harvest” or “fruit” and then combined with “mortuum” (dead), it conveys “harvested corpse” or “decaying fruit plucked too late"
 
 Karpos:
 - In Roman and Greek mythology, Carpus (/ˈkɑːrpɒs/; Ancient Greek: Καρπός, romanized: Karpos, lit. 'fruit') is a minor character associated with fertility and springtime. 
